@@ -36,7 +36,7 @@ Calculates the perimeter of a circle
     31.41592653589793
     ```
 
-### rectangle
+### [rectangle](../rectangle.py)
 
 #### area(a, b):
 Calculates the area of a rectangle
@@ -70,7 +70,7 @@ Calculates the perimeter of a rectangle
     22
     ```
 
-### square
+### [square](../square.py)
 
 #### area(a):
 Calculates the area of a square
@@ -103,7 +103,7 @@ Calculates the perimeter of a square
     20
     ```
 
-### triangle
+### [triangle](../triangle.py)
 
 #### area(a, h): 
 Calculates the area of a triangle
