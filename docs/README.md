@@ -145,5 +145,5 @@ Calculates the perimeter of a triangle
 | Commit hash | Changes |
 |-|-|
 |[ca105708573b577e89db97e966fe3b91a57632c0](https://github.com/ryserfryes/geometric_lib/commit/ca105708573b577e89db97e966fe3b91a57632c0)| Added documentation|
-|8b661c0d5aec962ef8abc44fbef25bcc43534099|added triangle.py, fixed rectangle.py|
-|889c7d596a2cd14fe73b269ca52bb3622c6edcf7|added rectangle.py|
+|[8b661c0d5aec962ef8abc44fbef25bcc43534099](https://github.com/ryserfryes/geometric_lib/commit/8b661c0d5aec962ef8abc44fbef25bcc43534099)|added triangle.py, fixed rectangle.py|
+|[889c7d596a2cd14fe73b269ca52bb3622c6edcf7](https://github.com/ryserfryes/geometric_lib/commit/889c7d596a2cd14fe73b269ca52bb3622c6edcf7)|added rectangle.py|
