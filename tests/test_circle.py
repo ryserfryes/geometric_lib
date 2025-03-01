@@ -7,9 +7,9 @@ class CircleTestCase(unittest.TestCase):
         res = area(10)
         self.assertEqual(res, 100 * math.pi)
     
-    def test_failing_test(self):
-        res = area(10)
-        self.assertEqual(res, 0)
+#    def test_failing_test(self):
+#        res = area(10)
+#        self.assertEqual(res, 0)
     
     def test_positive_perimeter(self):
         res = perimeter(5)
