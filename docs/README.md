@@ -4,7 +4,7 @@ This project includes functions to calculate the area and the perimeter of such 
 
 ## Functions
 
-### cicle
+### [circle](../circle.py)
 
 ####  area(r):
 Calculates the area of a circle
