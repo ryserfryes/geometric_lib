@@ -13,6 +13,7 @@ def area(a):
     area(5)
     25
     """
+    if a < 0: raise TypeError
     return a * a
 
 
@@ -30,4 +31,5 @@ def perimeter(a):
     perimeter(5)
     20
     """
+    if a < 0: raise TypeError
     return 4 * a

@@ -13,6 +13,7 @@ def area(a, b):
     area(5,6)
     30
     """
+    if a < 0 or b < 0: raise TypeError
     return a * b 
 
 def perimeter(a, b): 
@@ -30,4 +31,5 @@ def perimeter(a, b):
     perimeter(5,6)
     22
     """
+    if a < 0 or b < 0: raise TypeError
     return (a + b)*2
