@@ -2,7 +2,7 @@ name: CI
 on:
   push:
     branches:
-      ["new_features_450269"]
+      - '**'
 jobs:
   test-ubuntu:
     runs-on: ubuntu-latest
